@@ -18,7 +18,7 @@
 
 Click on the button **Try for free** on the Free Trials page of SAP Business Technology Platform:
 
-<a href="https://www.sap.com/products/business-technology-platform/free-trials.html" target="_blank">(https://www.sap.com/products/business-technology-platform/free-trials.html</a>
+<a href="https://www.sap.com/products/business-technology-platform/free-trials.html" target="_blank">https://www.sap.com/products/business-technology-platform/free-trials.html</a>
 
 ![](./images/001.png)
 
